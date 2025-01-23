@@ -7,7 +7,7 @@
 
 [DBM POLSKA](https://discord.gg/9HYB4n3Dz4) to projekt open source kierowany przez społeczność, którego celem jest modyfikowanie, rozszerzanie i ulepszanie [Discord Bot Maker](https://store.steampowered.com/app/682130/Discord_Bot_Maker/).
 
-# Pobieranie
+# Uwaga
 
 Aktualnie discord.js v15 nie istnieje.
 
